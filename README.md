@@ -7,7 +7,14 @@ I made this project just for fun, A Web Developer with three years of experience
 
 
 
-Skills:  JS / REACT / JS / HTML / CSS / Boot Strap / PHP / MYSQL
+Skills:
+*JS
+* REACT
+* HTML
+* CSS
+* Boot Strap
+* PHP
+* MYSQL
 
 - 🔭 I’m currently working on this page. 
 
